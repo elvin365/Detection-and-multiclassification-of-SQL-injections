@@ -10,20 +10,20 @@ The Task was to create an IDS via machine learning to detect
 * double query
 Metrics for each class are:
 
-Precision
-Recall
-F1-scrore (and support)
-Multiclassification metrics are
+* Precision
+* Recall
+* F1-scrore (and support)
+* Multiclassification metrics are
 
 Confusion matrix
-ROC-cruve
-Accuracy
-Micro Precision
-Micro Recall
-Micro F1-score
-Macro Precision
-Macro Recall
-Macro F1-score
-Weighted Precision
-Weighted Recall
-Weighted F1-score
+* ROC-cruve
+* Accuracy
+* Micro Precision
+* Micro Recall
+* Micro F1-score
+* Macro Precision
+* Macro Recall
+* Macro F1-score
+* Weighted Precision
+* Weighted Recall
+* Weighted F1-score
