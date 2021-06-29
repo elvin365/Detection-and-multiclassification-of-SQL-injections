@@ -1,0 +1,1 @@
+1')) as gfzb where 7904=7904;begin dbms_lock.sleep(5); end--

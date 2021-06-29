@@ -1,0 +1,1 @@
+UNION(SELECT(column)FROM(table))

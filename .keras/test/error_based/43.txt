@@ -1,0 +1,1 @@
+1') or char(68)||char(69)||char(97)||char(85)=regexp_substring(repeat(right(char(5389),0),5000000000),null) and ('wdru' like 'wdru

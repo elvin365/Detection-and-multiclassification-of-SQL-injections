@@ -1,0 +1,1 @@
+(select (case when (3348=1710) then 3348 else cast(1 as int)/(select 0 from dual) end) from dual)

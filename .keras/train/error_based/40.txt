@@ -1,0 +1,1 @@
+1);select * from generate_series(4592,4592,case when (4592=4592) then 1 else 0 end) limit 1--

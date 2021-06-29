@@ -1,0 +1,1 @@
+1')) and 3707=(select count(*) from sysibm.systables as t1,sysibm.systables as t2,sysibm.systables as t3) and (('ijyi'='ijyi

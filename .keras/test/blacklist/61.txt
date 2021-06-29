@@ -1,0 +1,1 @@
+unhex(hex(group_concat(table_name)))

@@ -1,0 +1,1 @@
+CONVERT(group_concat(table_name)+USING+latin1)

