@@ -8,6 +8,7 @@ The Task was to create an IDS via machine learning to detect
 * blind time based
 * error based
 * double query
+
 Metrics for each class are:
 
 * Precision
